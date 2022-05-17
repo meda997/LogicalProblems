@@ -14,7 +14,7 @@ namespace LogicalPrograms
                 int i = 1;
                 int total = 0;
 
-            Console.WriteLine("ENTER  NUMBER:");
+            Console.WriteLine("ENTER YOUR NUMBER:");
             num = Convert.ToInt32((double)i);
                 Console.ReadLine();
 
